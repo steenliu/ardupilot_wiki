@@ -1,7 +1,7 @@
 .. _introduction:
 
 ==================
-Introducing Copter
+Introducing Copter 多旋翼简介
 ==================
 
 Copter is an advanced open-source autopilot system for multicopters, :ref:`traditional single/dual rotor helicopters <traditional-helicopters>`, and other rotor vehicles.  It offers a :ref:`wide variety of flight modes <flight-modes>` from fully manual to fully autonomous.
