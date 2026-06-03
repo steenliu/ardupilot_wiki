@@ -12,9 +12,11 @@ Copter是一个高级的多旋翼的开源飞控系统, :ref:`traditional single
 .. image:: ../images/copter-introduction-diagram.jpg
     :target: ../_images/copter-introduction-diagram.jpg
 
-As part of the wider ArduPilot software platform it works seamlessly with a variety of :ref:`Ground Control Station programs <common-choosing-a-ground-station>`that are used to setup the vehicle, monitor the vehicle's flight in real-time and perform powerful mission planning activities.It also benefits from other parts of the ArduPilot ecosystem, including simulators, log analysis tools, and higher level APIs for vehicle control.
+As part of the wider ArduPilot software platform it works seamlessly with a variety of :ref:`Ground Control Station programs <common-choosing-a-ground-station>`
+that are used to setup the vehicle, monitor the vehicle's flight in real-time and perform powerful mission planning activities.It also benefits from other parts of the ArduPilot ecosystem, including simulators, log analysis tools, and higher level APIs for vehicle control.
 
-作为一个被广泛应用的自动驾驶仪平台，它可以跟许多地面控制站 :ref:`Ground Control Station programs <common-choosing-a-ground-station>`无缝协作，这些地面站用于设置车辆及监控车辆的实时飞行并且执行强有力任务规划活动。
+作为一个被广泛应用的自动驾驶仪平台，它可以跟许多地面控制站 :ref:`Ground Control Station programs <common-choosing-a-ground-station>`
+无缝协作，这些地面站用于设置车辆及监控车辆的实时飞行并且执行强有力任务规划活动。
 它也得益于Ardupilot 生态系统的其他部分，包括模拟器，日志分析软件及用于车辆控制的高水平API 。
 
 ArduPilot is already a preferred platform for numerous commercially available autopilot systems but you can also use it to enhance the abilities of your own DIY multirotor.
